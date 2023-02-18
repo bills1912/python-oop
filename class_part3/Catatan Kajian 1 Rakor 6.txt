@@ -1,0 +1,10 @@
+Catatan Kajian 1:
+- Speed up
+- PPT harus lebih diperinci lagi
+- Masalah analisis indeks komposit, bisa lebih diperinci lagi terkait laporannya, baik di pemaparan maupun dalam laporan riset nantinya
+- Citra satelit yang digunakan harus ditambah (Sentinel-1 dan Landsat-8)
+- Hasil dari tutupan lahan harus lebih cepat diselesaikan
+- Target kuesioner nya masih belum bisa ditentukan
+- Link ke kajian 2 masih harus dikaji
+- Pra-modelling sebenarnya sudah bisa digunakan sebagai gambaran penentuan sample
+- Kedepannya harus disampaikan bener2 dari awal lagi
